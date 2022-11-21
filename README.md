@@ -1,4 +1,4 @@
-<img src="./easyLP.jpg" width="200">
+<img src="./icon.jpg" width="200">
 
 # easyLP
 
