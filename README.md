@@ -2,7 +2,7 @@
 
 # easyLP
 
-ETH San Francisco Hackathon 2022 [link](https://ethglobal.com/showcase/easylp-8o44q)
+ETH San Francisco 2022 [link](https://ethglobal.com/showcase/easylp-8o44q)
 
 ## Introduction
 
